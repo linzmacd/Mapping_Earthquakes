@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project was to visualize fault lines and recent earthquakes on an interactive map. 
+The purpose of this project was to visualize fault lines and recent earthquakes on an [interactive map](https://linzmacd.github.io/Mapping_Earthquakes/). 
 
 ## Methods
 
